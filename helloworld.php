@@ -18,10 +18,10 @@
 
 		?>
 
-    	<br>
+    		<br>
     	
-    	<?php
-    		echo "This is a very simple page.";
-    	?>
+    		<?php
+    			echo "This is a very simple page.";
+    		?>
 	</body>
 </html>
